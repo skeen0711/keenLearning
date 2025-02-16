@@ -1,9 +1,0 @@
-fastapi[all]  # FastAPI framework + required extras
-uvicorn       # ASGI server to run FastAPI
-psycopg2      # PostgreSQL driver
-sqlalchemy    # ORM for database handling
-passlib[bcrypt]  # Password hashing
-python-dotenv # Environment variable management
-pydantic      # Data validation
-watchdog      # For monitoring the courses directory
-smtplib       # Email sending (built-in, no install needed)
